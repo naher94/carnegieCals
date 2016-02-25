@@ -1,0 +1,180 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body,h1,h2,h3,h4{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
+.callout{
+	border-width: 5px;
+	margin-top: 20px;
+}
+
+p{
+	font-size: 20px;
+}
+
+footer{
+	text-align: center;
+	margin: 40px;
+	padding-bottom: 40px;
+}
+
+#ideate{
+	border-color: red;
+	color: red;
+}
+
+#ideate:hover{
+	background-color: red;
+	color: white;
+}
+
+#arch{
+	border-color: blue;
+	color: blue;
+}
+
+#arch:hover{
+	background-color: blue;
+	color: white;
+}
+
+#design{
+	border-color: orange;
+	color: orange;
+}
+
+#design:hover{
+	background-color: orange;
+	color: white;
+}
+
+#art{
+	border-color: purple;
+	color: purple;
+}
+
+#art:hover{
+	background-color: purple;
+	color:white;
+}
+/*CHANGE COLORS BELOW*/
+#drama{
+	border-color: purple;
+	color: purple;
+}
+
+#drama:hover{
+	background-color: purple;
+	color:white;
+}
+
+#music{
+	border-color: purple;
+	color: purple;
+}
+
+#music:hover{
+	background-color: purple;
+	color:white;
+}
+
+#chemE{
+	border-color: purple;
+	color: purple;
+}
+
+#chemE:hover{
+	background-color: purple;
+	color:white;
+}
+
+#ECE{
+	border-color: purple;
+	color: purple;
+}
+
+#ECE:hover{
+	background-color: purple;
+	color:white;
+}
+
+#CS{
+	border-color: purple;
+	color: purple;
+}
+
+#CS:hover{
+	background-color: purple;
+	color:white;
+}
+#HCII{
+	border-color: purple;
+	color: purple;
+}
+
+#HCII:hover{
+	background-color: purple;
+	color:white;
+}
+
+#RI{
+	border-color: purple;
+	color: purple;
+}
+
+#RI:hover{
+	background-color: purple;
+	color:white;
+}
+
+#tepper{
+	border-color: purple;
+	color: purple;
+}
+
+#tepper:hover{
+	background-color: purple;
+	color:white;
+}
+
+#english{
+	border-color: purple;
+	color: purple;
+}
+
+#english:hover{
+	background-color: purple;
+	color:white;
+}
+
+#history{
+	border-color: purple;
+	color: purple;
+}
+
+#history:hover{
+	background-color: purple;
+	color:white;
+}
+
+#psychology{
+	border-color: purple;
+	color: purple;
+}
+
+#psychology:hover{
+	background-color: purple;
+	color:white;
+}
+
+#stats{
+	border-color: purple;
+	color: purple;
+}
+
+#stats:hover{
+	background-color: purple;
+	color:white;
+}
