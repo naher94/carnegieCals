@@ -1,0 +1,180 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body,h1,h2,h3,h4{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
+.callout{
+	border-width: 5px;
+	margin-top: 20px;
+}
+
+p{
+	font-size: 20px;
+}
+
+footer{
+	text-align: center;
+	margin: 40px;
+	padding-bottom: 40px;
+}
+
+#ideate{
+	border-color: #E84C3C;
+	color: #E84C3C;
+}
+
+#ideate:hover{
+	background-color: #E84C3C;
+	color: white;
+}
+
+#arch{
+	border-color: #3599DC;
+	color: #3599DC;
+}
+
+#arch:hover{
+	background-color: #3599DC;
+	color: white;
+}
+
+#design{
+	border-color: #E77E22;
+	color: #E77E22;
+}
+
+#design:hover{
+	background-color: #E77E22;
+	color: white;
+}
+
+#art{
+	border-color: #9C5AB7;
+	color: #9C5AB7;
+}
+
+#art:hover{
+	background-color: #9C5AB7;
+	color:white;
+}
+/*CHANGE COLORS BELOW*/
+#drama{
+	border-color: #2ECC71;
+	color: #2ECC71;
+}
+
+#drama:hover{
+	background-color: #2ECC71;
+	color:white;
+}
+
+#music{
+	border-color: #F2C50F;
+	color: #F2C50F;
+}
+
+#music:hover{
+	background-color: #F2C50F;
+	color:white;
+}
+
+#chemE{
+	border-color: #3599DC;
+	color: #3599DC;
+}
+
+#chemE:hover{
+	background-color: #3599DC;
+	color:white;
+}
+
+#ECE{
+	border-color: #E77E22;
+	color: #E77E22;
+}
+
+#ECE:hover{
+	background-color: #E77E22;
+	color:white;
+}
+
+#CS{
+	border-color: #E84C3C;
+	color: #E84C3C;
+}
+
+#CS:hover{
+	background-color: #E84C3C;
+	color:white;
+}
+#HCII{
+	border-color: #3599DC;
+	color: #3599DC;
+}
+
+#HCII:hover{
+	background-color: #3599DC;
+	color:white;
+}
+
+#RI{
+	border-color: #9C5AB7;
+	color: #9C5AB7;
+}
+
+#RI:hover{
+	background-color: #9C5AB7;
+	color:white;
+}
+
+#tepper{
+	border-color: #2ECC71;
+	color: #2ECC71;
+}
+
+#tepper:hover{
+	background-color: #2ECC71;
+	color:white;
+}
+
+#english{
+	border-color: #3599DC;
+	color: #3599DC;
+}
+
+#english:hover{
+	background-color: #3599DC;
+	color:white;
+}
+
+#history{
+	border-color: #E77E22;
+	color: #E77E22;
+}
+
+#history:hover{
+	background-color: #E77E22;
+	color:white;
+}
+
+#psychology{
+	border-color: #E84C3C;
+	color: #E84C3C;
+}
+
+#psychology:hover{
+	background-color: #E84C3C;
+	color:white;
+}
+
+#stats{
+	border-color: #F2C50F;
+	color: #F2C50F;
+}
+
+#stats:hover{
+	background-color: #F2C50F;
+	color:white;
+}
