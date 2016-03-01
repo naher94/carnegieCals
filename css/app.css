@@ -21,160 +21,160 @@ footer{
 }
 
 #ideate{
-	border-color: red;
-	color: red;
+	border-color: #E84C3C;
+	color: #E84C3C;
 }
 
 #ideate:hover{
-	background-color: red;
+	background-color: #E84C3C;
 	color: white;
 }
 
 #arch{
-	border-color: blue;
-	color: blue;
+	border-color: #3599DC;
+	color: #3599DC;
 }
 
 #arch:hover{
-	background-color: blue;
+	background-color: #3599DC;
 	color: white;
 }
 
 #design{
-	border-color: orange;
-	color: orange;
+	border-color: #E77E22;
+	color: #E77E22;
 }
 
 #design:hover{
-	background-color: orange;
+	background-color: #E77E22;
 	color: white;
 }
 
 #art{
-	border-color: purple;
-	color: purple;
+	border-color: #9C5AB7;
+	color: #9C5AB7;
 }
 
 #art:hover{
-	background-color: purple;
+	background-color: #9C5AB7;
 	color:white;
 }
 /*CHANGE COLORS BELOW*/
 #drama{
-	border-color: purple;
-	color: purple;
+	border-color: #2ECC71;
+	color: #2ECC71;
 }
 
 #drama:hover{
-	background-color: purple;
+	background-color: #2ECC71;
 	color:white;
 }
 
 #music{
-	border-color: purple;
-	color: purple;
+	border-color: #F2C50F;
+	color: #F2C50F;
 }
 
 #music:hover{
-	background-color: purple;
+	background-color: #F2C50F;
 	color:white;
 }
 
 #chemE{
-	border-color: purple;
-	color: purple;
+	border-color: #3599DC;
+	color: #3599DC;
 }
 
 #chemE:hover{
-	background-color: purple;
+	background-color: #3599DC;
 	color:white;
 }
 
 #ECE{
-	border-color: purple;
-	color: purple;
+	border-color: #E77E22;
+	color: #E77E22;
 }
 
 #ECE:hover{
-	background-color: purple;
+	background-color: #E77E22;
 	color:white;
 }
 
 #CS{
-	border-color: purple;
-	color: purple;
+	border-color: #E84C3C;
+	color: #E84C3C;
 }
 
 #CS:hover{
-	background-color: purple;
+	background-color: #E84C3C;
 	color:white;
 }
 #HCII{
-	border-color: purple;
-	color: purple;
+	border-color: #3599DC;
+	color: #3599DC;
 }
 
 #HCII:hover{
-	background-color: purple;
+	background-color: #3599DC;
 	color:white;
 }
 
 #RI{
-	border-color: purple;
-	color: purple;
+	border-color: #9C5AB7;
+	color: #9C5AB7;
 }
 
 #RI:hover{
-	background-color: purple;
+	background-color: #9C5AB7;
 	color:white;
 }
 
 #tepper{
-	border-color: purple;
-	color: purple;
+	border-color: #2ECC71;
+	color: #2ECC71;
 }
 
 #tepper:hover{
-	background-color: purple;
+	background-color: #2ECC71;
 	color:white;
 }
 
 #english{
-	border-color: purple;
-	color: purple;
+	border-color: #3599DC;
+	color: #3599DC;
 }
 
 #english:hover{
-	background-color: purple;
+	background-color: #3599DC;
 	color:white;
 }
 
 #history{
-	border-color: purple;
-	color: purple;
+	border-color: #E77E22;
+	color: #E77E22;
 }
 
 #history:hover{
-	background-color: purple;
+	background-color: #E77E22;
 	color:white;
 }
 
 #psychology{
-	border-color: purple;
-	color: purple;
+	border-color: #E84C3C;
+	color: #E84C3C;
 }
 
 #psychology:hover{
-	background-color: purple;
+	background-color: #E84C3C;
 	color:white;
 }
 
 #stats{
-	border-color: purple;
-	color: purple;
+	border-color: #F2C50F;
+	color: #F2C50F;
 }
 
 #stats:hover{
-	background-color: purple;
+	background-color: #F2C50F;
 	color:white;
 }
